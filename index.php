@@ -1,7 +1,3 @@
-<?php
-include 'koneksi.php';
-?>
-
 <!DOCTYPE html>
 <html lang="id">
 
@@ -2120,5 +2116,6 @@ Lihat pesanan Anda di menu "Riwayat Pesanan"
         });
     </script>
 </body>
+
 
 </html>
